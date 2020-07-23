@@ -19,6 +19,6 @@
 <!-- Footer -->
 <h4 align="center">
 
-Made with :heart: by <a href="https://www.linkedin.com/in/matheus-alves-b5038a184/" target="_blank">Lucas Mori.</a>
+Made with :heart: by <a href="https://www.linkedin.com/in/matheus-alves-b5038a184/" target="_blank">Matheus Alves.</a>
 
 </h4>
