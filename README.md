@@ -7,7 +7,7 @@
 </h3>
 
 
-- :telescope: I am currently looking for one working as a FrontEnd Junior developer;
+- :telescope: I am currently looking for a job as a Dev Frontend;
 - :heart: Passionate about Node.js, ReactJS and JavaScript;
 - :book: I am currently studying Analysis and Systems Development;
 - :sparkles: I like to create and develop everything I love and I think it's cool.
