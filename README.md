@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Matheus Alves, FronEnd developer and lover of a good cup of coffee :coffee:.
+  I'm Matheus Alves, FronEnd developer, who loves to create and invent new things and out of the box.
 </h3>
 
 
