@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Matheus Alves, FronEnd developer, who loves to create and invent new things and out of the box.
+  I'm Matheus Alves, FrontEnd developer who loves to create and invent new things and out of the box.
 </h3>
 
 
@@ -11,7 +11,6 @@
 - :heart: Passionate about Node.js, ReactJS and JavaScript;
 - :book: I am currently studying Analysis and Systems Development;
 - :sparkles: I like to create and develop everything I love and I think it's cool.
-
 
 <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  
