@@ -12,13 +12,18 @@
 - :book: I am currently studying Analysis and Systems Development;
 - :sparkles: I like to create and develop everything I love and I think it's cool.
 
-#### How to reach me:
 
-  - [LinkedIn](https://www.linkedin.com/in/matheus-alves-b5038a184/)
+<i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+ 
+<a href="https://github.com/mattheussAL/mattheussAL">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mattheussAL&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
+</a> 
+<a href="https://github.com/mattheussAL/mattheussAL">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheussAL&layout=compact&theme=tokyonight" />
+</a>
 
-<!-- Footer -->
 <h4 align="center">
-
-Made with :heart: by <a href="https://www.linkedin.com/in/matheus-alves-b5038a184/" target="_blank">Matheus Alves.</a>
-
+Made with :heart: by <a href="https://www.linkedin.com/in/matheus-alves-dos-santos-b5038a184/" target="_blank">Matheus Alves.</a>
 </h4>
+
