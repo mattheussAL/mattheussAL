@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alves-dos-santos/)](https://www.linkedin.com/in/matheus-alves-dos-santos/)
 
 <h3 align="center">
-  I'm Matheus Alves, FrontEnd developer who loves to create and invent new things and out of the box.
+  I'm Matheus Alves, FullStack developer who loves to create and invent new things and out of the box.
 </h3>
 
 
