@@ -7,12 +7,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alves-dos-santos/)](https://www.linkedin.com/in/matheus-alves-dos-santos/)
 
 <h3 align="center">
-  I'm Matheus Alves, FullStack developer who loves to create and invent new things and out of the box.
+  I'm Matheus Alves, Frontend developer who loves to create and invent new things and out of the box.
 </h3>
 
 
 - :telescope: I'm currently developing and evolving my skills with a lot of study, practice and work on what I love to do, web and mobile development;
-- :heart: Passionate about Node.js, ReactJS and JavaScript;
+- :heart: Passionate about JavaScript, Node.js and ReactJS ;
 - :book: I am currently studying Analysis and Systems Development;
 - :sparkles: I like to create and develop everything I love and I think it's cool.
 
