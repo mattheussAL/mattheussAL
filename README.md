@@ -28,10 +28,9 @@
 
 ## Techs
 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
@@ -40,6 +39,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F6C600?style=flat-square&logo=firebase&logoColor=white)
 
